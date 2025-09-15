@@ -1,0 +1,3 @@
+#!/bin/bash
+git add *.txt
+git commit -m "$1"
